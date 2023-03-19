@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.0.2 - March 18, 2023
+## v0.0.2 - March 19, 2023
 
 - Created documentation website
 
